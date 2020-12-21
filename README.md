@@ -9,7 +9,7 @@ Columbia.
 
 ### Project Status
 
-This project is in early stage of development.
+This project is in early stages of development.
 
 ### Getting Help or Reporting an Issue
 
