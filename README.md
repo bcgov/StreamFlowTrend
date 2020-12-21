@@ -4,7 +4,7 @@
 [![img](https://img.shields.io/badge/Lifecycle-Experimental-339999)](https://github.com/bcgov/repomountie/blob/master/%20doc/lifecycle-badges.md)
 
 This project aims to develop statistical-based indicators to evaluate
-and report on the long-term trend in streamflow regimes across British
+and report on the long-term trends in streamflow regimes across British
 Columbia.
 
 ### Project Status
@@ -40,3 +40,9 @@ to abide by its terms.
     See the License for the specific language governing permissions and limitations under the License.
 
 -----
+
+This repository is maintained by the [Water Protection and
+Sustainability
+Branch](https://www2.gov.bc.ca/gov/content/environment/air-land-water/water)
+of the British Columbia Ministry of Environment and Climate Change
+Strategy.
