@@ -1,5 +1,5 @@
 
-# streamflow-indicator
+# Long-term Trends in Streamflow in B.C.
 
 [![img](https://img.shields.io/badge/Lifecycle-Experimental-339999)](https://github.com/bcgov/repomountie/blob/master/%20doc/lifecycle-badges.md)
 
