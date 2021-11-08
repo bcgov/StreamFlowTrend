@@ -1,0 +1,39 @@
+Package: StreamFlowTrend
+Type: Package
+Title: Stream flow trend analysis on annualized values from HYDAT database
+Version: 2021.08
+Author: Schwarz, Carl James
+Maintainer: Schwarz, Carl James <cschwarz.stat.sfu.ca@gmail.com>
+Description: Set of routines for stream flow trend (individual and regional) analysis on annualized stream flow
+    statistics from the HYDAT database.
+License: Apache License (== 2.0) | file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Imports:
+    boot,
+    broom,
+    car,
+    dplyr,
+    EnvStats,
+    fasstr,
+    ggplot2,
+    knitr,
+    leaflet,
+    lmtest,
+    lubridate,
+    magrittr,
+    MASS,
+    modifiedmk,
+    plotly,
+    plyr,
+    purrr,
+    reshape2,
+    robustbase,
+    rmarkdown,
+    sandwich,
+    scales,
+    tidyhydat,
+    tidyr,
+    utils
+VignetteBuilder: knitr
