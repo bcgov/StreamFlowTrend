@@ -22,13 +22,17 @@ See the License for the specific language governing permissions and limitations 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 <!-- badges: end -->
 
-This is a suite of *R* functions and vignettes that explain the
-statistical underpinnings of this package and provide some examples of
-analyses.
+This is a suite of R functions and vignettes used to explore the
+statistical underpinnings of trending annual streamflow metrics using
+three different methods:
 
-The site contains the following directories and vignettes.
+1.  Mann-Kendall test
+2.  regular linear regression
+3.  robust linear regression
 
-*stfl\_function*: *R* functions to:
+The package contains the following function and vignettes.
+
+*stfl_function*: *R* functions to:
 
 -   compute station specific trends using the regular regression
     (denoted as the *LM* method), the Mann-Kendall test for trend

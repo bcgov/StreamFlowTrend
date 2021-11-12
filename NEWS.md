@@ -1,3 +1,15 @@
-# StreamFlowTrend 
+# StreamFlowTrend - 0.1.0
+=========================
 
-* Added a `NEWS.md` file to track changes to the package.
+Updated: 11 Nov 2021
+
+  * Updated documentation, readme
+
+# StreamFlowTrend - 2021-08
+=========================
+
+Initial upload to GitHub: 8 Nov 2021
+
+
+
+

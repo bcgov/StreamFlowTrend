@@ -1,11 +1,13 @@
 Package: StreamFlowTrend
 Type: Package
-Title: Stream flow trend analysis on annualized values from HYDAT database
-Version: 2021.08
-Author: Schwarz, Carl James
-Maintainer: Schwarz, Carl James <cschwarz.stat.sfu.ca@gmail.com>
-Description: Set of routines for stream flow trend (individual and regional) analysis on annualized stream flow
-    statistics from the HYDAT database.
+Title: Trend analysis on annual streamflow metrics from HYDAT database
+Version: 0.1.0
+Authors@R: c(person("Carl James", "Schwarz", email = "cschwarz.stat.sfu.ca@gmail.com", role = c("aut", "cre")),
+             person("Jon", "Goetz", email = "jon.goetz@gov.bc.ca", role = c("ctb"),
+                    comment = c(ORCID = "0000-0002-4993-1119")), 
+             person("Province of British Columbia", role = "cph"))
+Description: Set of routines for trend analysis on annual streamflow statistics 
+    (individual and regional) from the HYDAT database.
 License: Apache License (== 2.0) | file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
